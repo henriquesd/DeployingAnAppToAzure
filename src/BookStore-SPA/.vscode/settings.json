@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.deploySubpath": "dist\\BookStore-SPA",
+    "appService.defaultWebAppToDeploy": "/subscriptions/330e06fa-8f5f-4e37-9706-eea7e1c122d1/resourceGroups/BookStore/providers/Microsoft.Web/sites/demobookstore"
+}
